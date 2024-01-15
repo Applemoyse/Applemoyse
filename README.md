@@ -15,7 +15,7 @@
 ## 💞️ Projects
 Throughout my journey as a developer, I have worked on various projects, including:
 - [Applemoyse OS](https://applemoyse.dev): Built with jQuery, a digital manifestation of my coding journey, featuring information about me, Luna (my beloved white cat), the projects I've created, and even a good ol' chatbox to connect with fellow enthusiasts.
-- [LUNA: A Discord Bot ](https://luna-catbot.netlify.app): Built on JavaScript, LUNA comes packed with an array of features and leverages various APIs to enhance your server experience. With a collection of around 10 commands already at disposal, LUNA is ready to bring some fun and functionality to a Discord community. Whether you need moderation tools, or even just a bit of entertainment, LUNA has got it covered.
+- [LUNA: A Discord Bot ](https://applemoyse.dev/luna): Built on JavaScript, LUNA comes packed with an array of features and leverages various APIs to enhance your server experience. With a collection of around 10 commands already at disposal, LUNA is ready to bring some fun and functionality to a Discord community. Whether you need moderation tools, or even just a bit of entertainment, LUNA has got it covered.
 - [Arcane Twenty-Seven](https://novmaryllis.quest): A gaming hub that takes you on a nostalgia trip to the Geocities era. A CSS-powered website, which pays homage to the aesthetics of the past while providing a modern and interactive experience.
 <br>
 
